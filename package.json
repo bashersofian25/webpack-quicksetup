@@ -2,7 +2,7 @@
   "name": "webpack-quicksetup",
   "version": "1.0.0",
   "description": "A template for webpack configuration",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "build": "webpack",
     "start": "webpack serve"
